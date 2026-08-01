@@ -178,13 +178,9 @@ body::after{
 .cards-container{
 
     height:calc(100vh - 170px);
-
-    padding:20px 40px 80px;
-
+    padding:60px 40px 80px 40px;
     display:grid;
-
     gap:25px;
-
     align-content:start;
 }
 .card{
