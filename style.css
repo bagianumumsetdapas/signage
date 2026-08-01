@@ -177,7 +177,7 @@ body::after{
 
 .cards-container{
 
-    height:calc(100vh - 220px);
+    height:calc(100vh - 250px);
     padding:20px 40px 80px;
     display:grid;
     gap:25px;
